@@ -1,3 +1,5 @@
+https://www.bezkoder.com/spring-boot-jwt-authentication/
+
 # Spring Boot JWT Authentication example with Spring Security & Spring Data JPA
 
 ## User Registration, User Login and Authorization process.
